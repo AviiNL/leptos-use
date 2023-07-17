@@ -16,6 +16,7 @@
 
 - [use_active_element](elements/use_active_element.md)
 - [use_document_visibility](elements/use_document_visibility.md)
+- [use_draggable](elements/use_draggable.md)
 - [use_drop_zone](elements/use_drop_zone.md)
 - [use_element_size](elements/use_element_size.md)
 - [use_element_visibility](elements/use_element_visibility.md)
@@ -51,6 +52,7 @@
 
 - [use_interval](animation/use_interval.md)
 - [use_interval_fn](animation/use_interval_fn.md)
+- [use_raf_fn](animation/use_raf_fn.md)
 
 # Watch
 
@@ -62,10 +64,15 @@
 
 # Utilities
 
+- [is_err](utilities/is_err.md)
+- [is_none](utilities/is_none.md)
+- [is_ok](utilities/is_ok.md)
+- [is_some](utilities/is_some.md)
 - [use_cycle_list](utilities/use_cycle_list.md)
 - [use_debounce_fn](utilities/use_debounce_fn.md)
 - [use_supported](utilities/use_supported.md)
 - [use_throttle_fn](utilities/use_throttle_fn.md)
+- [use_to_string](utilities/use_to_string.md)
 
 # Intl
 

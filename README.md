@@ -13,7 +13,7 @@
     <a href="https://crates.io/crates/leptos-use"><img src="https://img.shields.io/crates/v/leptos-use.svg?label=&color=%232C1275" alt="Crates.io"/></a>
     <a href="https://leptos-use.rs/server_side_rendering.html"><img src="https://img.shields.io/badge/-SSR-%236a214b" alt="SSR"></a> 
     <a href="https://leptos-use.rs"><img src="https://img.shields.io/badge/-docs%20%26%20demos-%239A233F" alt="Docs & Demos"></a> 
-    <a href="https://leptos-use.rs"><img src="https://img.shields.io/badge/-44%20functions-%23EF3939" alt="44 Functions" /></a>
+    <a href="https://leptos-use.rs"><img src="https://img.shields.io/badge/-51%20functions-%23EF3939" alt="51 Functions" /></a>
 </p>
 
 <br/>
@@ -41,8 +41,6 @@ fn Demo(cx: Scope) -> impl IntoView {
 }
 ```
 
-We have only just begun implementing the first dozen functions but they are already very usable and ergonomic.
-
 Missing a function? Open a ticket or PR!
 
 ## Development
@@ -53,7 +51,7 @@ To run all tests run
 cargo test --all-features
 ```
 
-## Book
+### Book
 
 First you need to install
 
@@ -90,4 +88,4 @@ To scaffold a new function quickly you can run `template/createfn.sh`. It requir
 | Crate version | Compatible Leptos version |
 |---------------|---------------------------|
 | <= 0.3        | 0.3                       |
-| 0.4, 0.5      | 0.4                       |
+| 0.4, 0.5, 0.6 | 0.4                       |
